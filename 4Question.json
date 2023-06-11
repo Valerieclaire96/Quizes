@@ -1,0 +1,4353 @@
+"4-Question-Quiz": {
+    "quizId": "x43kew",
+    "title": "",
+    "subtitle": "",
+    "content": [
+        {
+            "id": 0,
+            "text": "",
+            "questions": [
+                {
+                    "text": "A",
+                    "im"A"ge": "",
+                    ""A"lt": "",
+                    "credit": ""
+                },
+                {
+                    "text": "B",
+                    "im"A"ge": "",
+                    ""A"lt": "",
+                    "credit": ""
+                },
+                {
+                    "text": "C",
+                    "im"A"ge": "",
+                    ""A"lt": "",
+                    "credit": ""
+                },
+                {
+                    "text": "D",
+                    "im"A"ge": "",
+                    ""A"lt": "",
+                    "credit": ""
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "text": "",
+            "questions": [
+                {
+                    "text": "A",
+                    "im"A"ge": "",
+                    ""A"lt": "",
+                    "credit": ""
+                },
+                {
+                    "text": "B",
+                    "im"A"ge": "",
+                    ""A"lt": "",
+                    "credit": ""
+                },
+                {
+                    "text": "C",
+                    "im"A"ge": "",
+                    ""A"lt": "",
+                    "credit": ""
+                },
+                {
+                    "text": "D",
+                    "im"A"ge": "",
+                    ""A"lt": "",
+                    "credit": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "text": "",
+            "questions": [
+                {
+                    "text": "A",
+                    "im"A"ge": "",
+                    ""A"lt": "",
+                    "credit": ""
+                },
+                {
+                    "text": "B",
+                    "im"A"ge": "",
+                    ""A"lt": "",
+                    "credit": ""
+                },
+                {
+                    "text": "C",
+                    "im"A"ge": "",
+                    ""A"lt": "",
+                    "credit": ""
+                },
+                {
+                    "text": "D",
+                    "im"A"ge": "",
+                    ""A"lt": "",
+                    "credit": ""
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "text": "",
+            "questions": [
+                {
+                    "text": "A",
+                    "im"A"ge": "",
+                    ""A"lt": "",
+                    "credit": ""
+                },
+                {
+                    "text": "B",
+                    "im"A"ge": "",
+                    ""A"lt": "",
+                    "credit": ""
+                },
+                {
+                    "text": "C",
+                    "im"A"ge": "",
+                    ""A"lt": "",
+                    "credit": ""
+                },
+                {
+                    "text": "D",
+                    "im"A"ge": "",
+                    ""A"lt": "",
+                    "credit": ""
+                }
+            ]
+        }
+    ],
+    ""A"nswers": [
+        {
+            "combin"A"tion": [
+                "A",
+                "A",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "A",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "A",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "A",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "A",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "A",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "A",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "A",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "A",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "A",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "A",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "A",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "A",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "A",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "A",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "A",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "B",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "B",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "B",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "B",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "B",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "B",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "B",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "B",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "B",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "B",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "B",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "B",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "B",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "B",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "B",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "C",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "C",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "C",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "C",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "C",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "C",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "C",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "C",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "C",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "C",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "C",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "C",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "C",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "C",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "C",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "C",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "D",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "D",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "D",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "D",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "D",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "D",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "D",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "D",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "D",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "D",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "D",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "D",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "D",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "D",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "D",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "A",
+                "D",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "A",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "A",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "A",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "A",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "A",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "A",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "A",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "A",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "A",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "A",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "A",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "A",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "A",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "A",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "A",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "A",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "B",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "B",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "B",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "B",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "B",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "B",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "B",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "B",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "B",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "B",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "B",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "B",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "B",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "B",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "B",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "B",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "C",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "C",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "C",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "C",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "C",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "C",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "C",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "C",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "C",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "C",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "C",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "C",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "C",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "C",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "C",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "C",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "D",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "D",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "D",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "D",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "D",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "D",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "D",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "D",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "D",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "D",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "D",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "D",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "D",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "D",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "D",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "B",
+                "D",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "https://im"A"ges.unspl"A"sh.com/photo-1626957341926-98752fc2b"A"90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxw"A"G90by1wYWdlfHx8fGVufDB8fHx8&"A"uto=form"A"t&fit=crop&w=1470&q=80",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "A",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "B",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "C",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "D",
+                "D",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "A",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "A",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "A",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "A",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "A",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "A",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "A",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "A",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "A",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "A",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "A",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "A",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "A",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "A",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "A",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "A",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "B",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "B",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "B",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "B",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "B",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "B",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "B",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "B",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "B",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "B",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "B",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "B",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "B",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "B",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "B",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "B",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "C",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "C",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "C",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "C",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "C",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "C",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "C",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "C",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "C",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "C",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "C",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "C",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "C",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "C",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "C",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "C",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "D",
+                "A",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "D",
+                "A",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "D",
+                "A",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "D",
+                "A",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "D",
+                "B",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "D",
+                "B",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "D",
+                "B",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "D",
+                "B",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "D",
+                "C",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "D",
+                "C",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "D",
+                "C",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "D",
+                "C",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "D",
+                "D",
+                "A"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "D",
+                "D",
+                "B"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "D",
+                "D",
+                "C"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        },
+        {
+            "combin"A"tion": [
+                "C",
+                "D",
+                "D",
+                "D"
+            ],
+            "text": "",
+            "im"A"ge": "",
+            ""A"lt": ""
+        }
+    ]
+}
